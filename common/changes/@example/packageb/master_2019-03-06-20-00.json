@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@example/packageb",
+      "comment": "Initial release",
+      "type": "major"
+    }
+  ],
+  "packageName": "@example/packageb",
+  "email": "ray@raygesualdo.com"
+}

@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "comment": "",
+      "packageName": "@example/packagea",
+      "type": "none"
+    }
+  ],
+  "packageName": "@example/packagea",
+  "email": "ray@raygesualdo.com"
+}
