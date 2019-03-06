@@ -7,4 +7,4 @@
 5. Make a change in packageA and commit it
 6. Run `rush change` and add a changelog entry
 7. Run `./publishPrerelease.sh`
-8. Run `npm dist-tags ls @example/packagea`
+8. Run `npm info @example/packagea`
